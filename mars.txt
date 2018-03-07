@@ -1,1 +1,2 @@
 Mars is my favorite planet.
+Decision to consider Venus as a base.
